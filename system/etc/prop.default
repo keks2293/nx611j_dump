@@ -1,0 +1,16 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Jun 18 18:43:38 CST 2020
+ro.bootimage.build.date.utc=1592477018
+ro.bootimage.build.fingerprint=nubia/NX611J/NX611J:8.1.0/OPM1.171019.011/nubia.20200618.184338:user/release-keys
+persist.sys.usb.config=none
+
